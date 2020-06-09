@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900648741327",
+    "firebase_url": "https://felipe-uribe.firebaseio.com",
+    "project_id": "felipe-uribe",
+    "storage_bucket": "felipe-uribe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900648741327:android:70364d49aefc5ce9b4caba",
+        "android_client_info": {
+          "package_name": "com.example.interiorpositioning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900648741327-p34a3eo5l9j2t6th3tj10nprkvsinmp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVO7TYTaAzZhAKpz9itg7G2cmcPM0aNAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900648741327-p34a3eo5l9j2t6th3tj10nprkvsinmp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
